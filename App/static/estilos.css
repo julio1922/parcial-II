@@ -1,0 +1,8 @@
+.contenedor {
+    position: relative;
+    top: 100px; /* Ajusta esta propiedad para mover la tabla hacia arriba o abajo */
+    left: 50px; /* Ajusta esta propiedad para mover la tabla hacia la derecha o izquierda */
+  }
+  
+  
+ 
